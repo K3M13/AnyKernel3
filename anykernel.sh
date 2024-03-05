@@ -15,7 +15,7 @@ device.name2=RMX1851CN
 device.name3=REALME_3_PRO
 device.name4=
 device.name5=
-supported.versions=
+supported.versions=10.0-14.0
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
