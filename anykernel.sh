@@ -4,16 +4,16 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=k3m13LTS by k3m13 for REALME 3 PRO
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
+device.name1=RMX1851
+device.name2=RMX1851CN
+device.name3=REALME_3_PRO
+device.name4=
 device.name5=
 supported.versions=
 supported.patchlevels=
