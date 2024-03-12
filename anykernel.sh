@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=k3m13LTS by k3m13 for REALME 3 PRO
+kernel.string=A.N.D_kernel_for_REALME_3_PRO
 do.devicecheck=1
 do.modules=0
 do.systemless=1
